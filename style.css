@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.logo {
+    height: 500px;
+    width: auto;
+   
+}
+
+#title {
+    text-align: center;
+}
+
+.wcr,
+.naan,
+.bph-chicken {
+    text-align: center;
+    background-color:rgb(255, 160, 240);
+
+}
